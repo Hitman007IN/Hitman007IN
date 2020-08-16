@@ -9,4 +9,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitman007IN&layout=compact)](https://github.com/Hitman007IN/github-readme-stats)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-vishakh-rameshan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakh-rameshan-0a48099a/)](https://www.linkedin.com/in/vishakh-rameshan-0a48099a/) 
+[![Linkedin Badge](https://img.shields.io/badge/-vishakh-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakh-rameshan-0a48099a/)](https://www.linkedin.com/in/vishakh-rameshan-0a48099a/) 
