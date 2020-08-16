@@ -8,10 +8,5 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Hitman007IN&show_icons=true&include_all_commits=true)](https://github.com/Hitman007IN/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitman007IN&layout=compact)](https://github.com/Hitman007IN/github-readme-stats)
 
-## Hey 👋, 
-[![Linkedin Badge](https://img.shields.io/badge/-vishakhrameshan-0a48099a-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakhrameshan-0a48099a/)](https://www.linkedin.com/in/vishakhrameshan-0a48099a/) 
 
-## Hey 👋, 
-[![Linkedin Badge](https://img.shields.io/badge/-vishakhrameshan-0a48099a-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakhrameshan-0a48099a/)](https://www.linkedin.com/in/vishakhrameshan-0a48099a/) 
-
-[![Linkedin Badge](https://img.shields.io/badge/-rajk3770-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajk3770/)](https://www.linkedin.com/in/rajk3770/) 
+[![Linkedin Badge](https://img.shields.io/badge/-vishakh-rameshan-0a48099a-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakh-rameshan-0a48099a/)](https://www.linkedin.com/in/vishakh-rameshan-0a48099a/) 
