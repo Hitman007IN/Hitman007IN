@@ -10,3 +10,8 @@
 
 ## Hey 👋, 
 [![Linkedin Badge](https://img.shields.io/badge/-vishakhrameshan-0a48099a-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakhrameshan-0a48099a/)](https://www.linkedin.com/in/vishakhrameshan-0a48099a/) 
+
+## Hey 👋, 
+[![Linkedin Badge](https://img.shields.io/badge/-vishakhrameshan-0a48099a-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakhrameshan-0a48099a/)](https://www.linkedin.com/in/vishakhrameshan-0a48099a/) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-rajk3770-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajk3770/)](https://www.linkedin.com/in/rajk3770/) 
